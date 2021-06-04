@@ -1,4 +1,4 @@
-[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Music-Bot-With-Filters-v2&theme=dark)](https://github.com/navaneethkm004/Music-Bot-With-Filters-v2)<br/>
+[![Music-Bot-With-Filters-v2](https://github-readme-stats.vercel.app/api/pin/?username=xdhyper&repo=idne&theme=dark)](https://github.com/xdhyper/idne)<br/>
 
 An advanced Music Bot, with 30+ Radio Stations, with capability of filters, like Bassboost, Nightcore, etc. and reaction interactivity. Based on ytdl-core with discord.js Guide Handler. With ideas from eritislami 
 
@@ -40,7 +40,7 @@ If you decide to use this Bot, [check out this Github repo first](https://github
  
  **5.** start the bot with **`node index.js`**<br/>
  
- [![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Music-Bot-With-Filters-v2)](https://repl.it/github/navaneethkm004/Music-Bot-With-Filters-v2)</br>
+ [![Run on Repl.it](https://repl.it/badge/github/xdhyper/idne)](https://repl.it/github/xdhyper/idne)</br>
 
 ## **TUTORIAL** 
 
